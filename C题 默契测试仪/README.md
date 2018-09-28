@@ -10,9 +10,9 @@
 
 ### 一、设计任务
 &emsp;&emsp;设计制作一个简易的测试装置，两人同时通过按键回答问题，答案相同时指示灯亮，答案不同时扬声器发出声音。简易示意图如图1所示。  
-  
-  
-图一 
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/C%E9%A2%98%20%E9%BB%98%E5%A5%91%E6%B5%8B%E8%AF%95%E4%BB%AA/picture/%E5%9B%BE%E4%B8%80.png" width="420">
+</p>  
   
 ### 二、设计要求
 #### 1、基本要求
@@ -30,7 +30,8 @@
 - 若使用自制的PCB板，板上需打印出姓名和学号。   
   
 ### 四、评分标准
-  
-图二  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/C%E9%A2%98%20%E9%BB%98%E5%A5%91%E6%B5%8B%E8%AF%95%E4%BB%AA/picture/%E5%9B%BE%E4%BA%8C.png" width="720">
+</p>  
 
 
