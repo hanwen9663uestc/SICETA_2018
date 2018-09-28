@@ -58,7 +58,9 @@ Gansu ==> Hong_Kong（甘肃 “生” 香港）<br />
 - 基础要求对得分没有要求，扩展要求希望大家能够尽可能的设计算法以取得高分。
 - 从服务器端获取到可视化界面，并且完整和服务器对战一局，并且获得完整流程的可视化对战情况。
 ### 四、测评标准
-测评标准图  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/D%E9%A2%98%20%E6%94%BB%E5%9F%8E%E7%95%A5%E5%9C%B0/picture/%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.png" width="720">
+</p>  
   
 &emsp;&emsp;**注：最后对战得分为测评当天实现三回自动对战500盘，并取三回结果的均分为最终对战部分得分。**
 ### 五、注意事项
@@ -69,7 +71,9 @@ Gansu ==> Hong_Kong（甘肃 “生” 香港）<br />
 ### 六、API接口文档
 https://www.zybuluo.com/Vincent-Gao/note/1276738  
 ### 七、参考资料
-python图片  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/D%E9%A2%98%20%E6%94%BB%E5%9F%8E%E7%95%A5%E5%9C%B0/picture/python.jpg">
+</p>  
   
 ### 八、重要注释
 - **本题采用中国地图目的是为了方便大家熟悉地图中的元素，减少地图带来的题目难度，没有任何政治目的以及地域性目的，请同学们不要上纲上线，让我们一同坚持一个中国原则并且坚持中国主权和领土完整。**
