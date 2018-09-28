@@ -10,9 +10,9 @@
 
 ### 一、设计任务
 设计并制作一个可以多档调速且有撞击提示的小车，系统框图如图1所示。  
-  
-  
-图一 
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/A%E9%A2%98%20%E8%93%9D%E7%89%99%E8%B0%83%E9%80%9F%E5%B0%8F%E8%BD%A6/picture/%E5%9B%BE%E4%B8%80.png">
+</p>  
   
 ### 二、设计要求
 #### 1、基本要求
@@ -30,6 +30,8 @@
   
 ### 四、评分标准
   
-图二  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/A%E9%A2%98%20%E8%93%9D%E7%89%99%E8%B0%83%E9%80%9F%E5%B0%8F%E8%BD%A6/picture/%E5%9B%BE%E4%BA%8C.png">
+</p>  
 
 
