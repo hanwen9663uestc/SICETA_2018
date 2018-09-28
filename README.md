@@ -1,6 +1,7 @@
 <p align="center">
  <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/picture/%E6%A0%87%E9%A2%98%E5%9B%BE%E7%89%87.png" width="900">
 </p>  
+  
 ## SICETA_2018
 This is the introduction of the competition organized by SICETA.
   
