@@ -1,4 +1,4 @@
-## 躲避滚石”赛车游戏机(B题)
+## “躲避滚石”赛车游戏机(B题)
 
 ---
 ### 注意事项
@@ -10,9 +10,10 @@
 
 ### 一、设计任务
 &emsp;&emsp;使用单片机及相关外围元件设计并制作一个赛车游戏机，要求具备UI游戏界面（开始游戏，设置等）。游戏规则：游戏界面中显示若干条跑道，玩家可以通过按键选择赛车所在的跑道。跑道上会随机出现障碍物，玩家需要进行躲避。一旦与障碍物碰撞，游戏结束，返回主界面。  
-  
-  
-图一 
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/B%E9%A2%98%20%E2%80%9C%E8%BA%B2%E9%81%BF%E6%BB%9A%E7%9F%B3%E2%80%9D%E8%B5%9B%E8%BD%A6%E6%B8%B8%E6%88%8F%E6%9C%BA/picture/%E5%9B%BE%E4%B8%80.png" width="500">
+</p>  
+
   
 ### 二、设计要求
 #### 1、基本要求
@@ -39,6 +40,7 @@
    
 ### 四、评分标准
   
-图二  
-
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/B%E9%A2%98%20%E2%80%9C%E8%BA%B2%E9%81%BF%E6%BB%9A%E7%9F%B3%E2%80%9D%E8%B5%9B%E8%BD%A6%E6%B8%B8%E6%88%8F%E6%9C%BA/picture/%E5%9B%BE%E4%BA%8C.png" width="720">
+</p>  
 
