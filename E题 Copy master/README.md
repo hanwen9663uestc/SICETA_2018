@@ -23,7 +23,7 @@
 ![](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%BA%8C.png)  
 ##### 2）实现图片轮播功能（要求轮播完全部图片）。  
 <p align="center">
- <img src="https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/%E5%89%8D%E7%AB%AF%20%C2%B7%20%E8%BF%9B%E9%98%B6%E9%A2%98/picture/%E5%9B%BE%E4%B8%89.png">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/E%E9%A2%98%20Copy%20master/picture/%E5%9B%BE%E4%B8%89.png">
 </p>  
 
 ##### 3）实现光标悬停时的元素“冒头”的效果（要求网页上一整行都实现该效果）。  
