@@ -21,5 +21,5 @@ This is the introduction of the competition organized by SICETA.
 </br>
   
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/picture/%E5%90%8D%E8%A8%80.png" width="600">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/picture/%E5%90%8D%E8%A8%80.png" width="800">
 </p> 
