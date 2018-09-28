@@ -44,7 +44,9 @@
 </p>  
 
 ##### 5）实现内容轮播功能（要求实现5个内容全部能轮播）。  
-图片
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/E%E9%A2%98%20Copy%20master/picture/%E5%9B%BE%E4%B8%83.png">
+</p>  
   
 ##### 6）淘宝网首页上你能够实现的其他部分，根据效果和难度酌情评分。  
 ### 注意事项说明
@@ -54,7 +56,9 @@
 - 强烈建议将HTML代码写在HTML文件中，CSS代码写在CSS文件中，JavaScript代码写在JavaScript文件中，然后通过HTML代码进行链接CSS和JavaScript文件。  
   
 ### 四、评分标准
-图片  
+<p align="center">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/E%E9%A2%98%20Copy%20master/picture/%E5%9B%BE%E5%85%AB.png" width="720">
+</p>   
   
 ### 五、参考资料
 &emsp;&emsp;在线学习资料（建议先看HTML、CSS、JavaScript的入门学习视频讲解或是去慕课网上搜索相关课程入门学习）  
