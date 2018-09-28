@@ -31,7 +31,7 @@
 ### 四、评分标准
   
 <p align="center">
- <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/A%E9%A2%98%20%E8%93%9D%E7%89%99%E8%B0%83%E9%80%9F%E5%B0%8F%E8%BD%A6/picture/%E5%9B%BE%E4%BA%8C.png" width="600">
+ <img src="https://github.com/hanwen9663uestc/SICETA_2018/raw/master/A%E9%A2%98%20%E8%93%9D%E7%89%99%E8%B0%83%E9%80%9F%E5%B0%8F%E8%BD%A6/picture/%E5%9B%BE%E4%BA%8C.png" width="720">
 </p>  
 
 
